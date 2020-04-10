@@ -1,7 +1,7 @@
 # geneticDots
-genetic pathfinding algorithm
+- Genetic Pathfinding Algorithm
 
-Basics
+## Basics
 Creates map of obstacles (blue rectangles), a starting location (green dot), and a target location (red dot).
 A population of size "popsize" is created with a random list of "steps". these steps are integers which correspond to a direction of motion for one step.
 The program simulates the population by running each step consecutively. 
